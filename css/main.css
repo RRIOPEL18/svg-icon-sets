@@ -19,6 +19,14 @@ a {
   color: #fff;
 }
 
+h2 {
+  font-style: bold;
+}
+
+p {
+  font-style: bold;
+}
+
 .line {
   border-bottom: 2px solid rgba(255, 255, 255, .5);
 }

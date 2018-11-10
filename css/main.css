@@ -17,14 +17,7 @@ html {
 
 a {
   color: #fff;
-}
-
-h2 {
-  font-style: bold;
-}
-
-p {
-  font-style: bold;
+  text-decoration: none;
 }
 
 .line {

@@ -9,6 +9,16 @@ html {
   border-color: #fff;
 }
 
+.btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: transparent;
+}
+
+a {
+  color: #fff;
+}
+
 .line {
   border-bottom: 2px solid rgba(255, 255, 255, .5);
 }
